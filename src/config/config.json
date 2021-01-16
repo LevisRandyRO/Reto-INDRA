@@ -1,0 +1,18 @@
+{
+  "development": {
+    "host": "localhost",
+    "user": "user",
+    "password": "pass",
+    "port": "3306",
+    "database": "ddbb",
+    "debug": false
+  },
+  "production": {
+    "host": "host",
+    "user": "user",
+    "password": "pass",
+    "port": "3306",
+    "database": "ddbb",
+    "debug": false
+  }
+}
